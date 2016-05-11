@@ -12,13 +12,42 @@ html {
   }
 
 h1 {
-font-family: 'Raleway', sans-serif;
+font-family: 'Lobster Two', cursive;
 color: #FFA630;
+font-size: 72px;
+text-align: center;
 }
 
 
 h3 {
-font-family: 'Lobster Two', cursive;
+font-family: 'Raleway', sans-serif;
 color: #FDFFFC;
+font-size: 28px;
+}
+
+
+img {
+width: 100%;
+position: absolute;
+top: 400px;
+}
+
+#work {
 position: relative;
+left: 200px;
+top: 370px;
+}
+
+#about {
+top: 365px;
+left: 538px;
+-webkit-transform: rotate(-6deg);
+position: relative;
+}
+
+#contact {
+top: 540px;
+left: 695px;
+position: relative;
+-webkit-transform: rotate(45deg);
 }

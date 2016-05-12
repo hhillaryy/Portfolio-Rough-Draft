@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="374px" viewBox="0 0 1024 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle abstract</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="224.702751 146.055924 308.975785 228.29934 133.511022 228.29934"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="86.2434164">
+            <rect x="131.511022" y="144.055924" width="179.464764" height="86.2434164" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <polygon id="path-3" points="372.225993 201.653614 459.958375 281.653614 284.493611 281.653614"></polygon>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="84">
+            <rect x="282.493611" y="199.653614" width="179.464764" height="84" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <polygon id="path-5" points="94.9923494 92.9979972 182.724731 172.997997 7.25996764 172.997997"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="84">
+            <rect x="5.25996764" y="90.9979972" width="179.464764" height="84" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <polygon id="path-7" points="568.540967 237.997997 656.273349 319.997997 480.808585 319.997997"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="86">
+            <rect x="478.808585" y="235.997997" width="179.464764" height="86" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <polygon id="path-9" points="633.293866 112.997997 721.026248 192.997997 545.561484 192.997997"></polygon>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="84">
+            <rect x="543.561484" y="110.997997" width="179.464764" height="84" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <polygon id="path-11" points="756.541859 49.9979972 844.274241 129.997997 668.809477 129.997997"></polygon>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="84">
+            <rect x="666.809477" y="47.9979972" width="179.464764" height="84" fill="white"></rect>
+            <use xlink:href="#path-11" fill="black"></use>
+        </mask>
+        <polygon id="path-13" points="845.895335 183.224117 933.627716 263.224117 758.162953 263.224117"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="84">
+            <rect x="756.162953" y="181.224117" width="179.464764" height="84" fill="white"></rect>
+            <use xlink:href="#path-13" fill="black"></use>
+        </mask>
+        <polygon id="path-15" points="990.762657 180.876314 1076.98625 262.526631 901.521482 262.526631"></polygon>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="179.464764" height="85.6503163">
+            <rect x="899.521482" y="178.876314" width="179.464764" height="85.6503163" fill="white"></rect>
+            <use xlink:href="#path-15" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="LANDING/-HOME" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing/Home" transform="translate(0.000000, -386.000000)">
+            <g id="triangle-abstract" transform="translate(-57.000000, 390.000000)">
+                <g id="Triangle-1" transform="translate(221.243403, 187.177632) scale(-1, -1) rotate(-223.000000) translate(-221.243403, -187.177632) ">
+                    <use fill="#FFA630" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#3D4656" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+                <g id="Triangle-1-Copy" transform="translate(372.225993, 241.653614) scale(-1, 1) rotate(-213.000000) translate(-372.225993, -241.653614) ">
+                    <use fill-opacity="0.718608469" fill="#07BEB8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use stroke="#3D4656" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+                </g>
+                <g id="Triangle-1-Copy-4" transform="translate(94.992349, 132.997997) scale(-1, 1) rotate(-216.000000) translate(-94.992349, -132.997997) ">
+                    <use fill="#E8F1F2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use stroke="#3D4656" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                </g>
+                <g id="Triangle-1-Copy-2" transform="translate(568.540967, 278.997997) scale(1, -1) rotate(-218.000000) translate(-568.540967, -278.997997) ">
+                    <use fill="#E8F1F2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use stroke="#3D4656" mask="url(#mask-8)" stroke-width="4" xlink:href="#path-7"></use>
+                </g>
+                <g id="Triangle-1-Copy-3" transform="translate(633.293866, 152.997997) scale(-1, -1) rotate(-223.000000) translate(-633.293866, -152.997997) ">
+                    <use fill="#FFA630" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <use stroke="#3D4656" mask="url(#mask-10)" stroke-width="4" xlink:href="#path-9"></use>
+                </g>
+                <g id="Triangle-1-Copy-7" transform="translate(756.541859, 89.997997) scale(-1, 1) rotate(-223.000000) translate(-756.541859, -89.997997) ">
+                    <use fill-opacity="0.718608469" fill="#07BEB8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use stroke="#3D4656" mask="url(#mask-12)" stroke-width="4" xlink:href="#path-11"></use>
+                </g>
+                <g id="Triangle-1-Copy-6" transform="translate(845.895335, 223.224117) scale(-1, 1) rotate(-249.000000) translate(-845.895335, -223.224117) ">
+                    <use fill="#E8F1F2" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <use stroke="#3D4656" mask="url(#mask-14)" stroke-width="4" xlink:href="#path-13"></use>
+                </g>
+                <g id="Triangle-1-Copy-9" transform="translate(989.253864, 221.701473) scale(1, -1) rotate(-159.000000) translate(-989.253864, -221.701473) ">
+                    <use fill="#FFA630" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <use stroke="#3D4656" mask="url(#mask-16)" stroke-width="4" xlink:href="#path-15"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

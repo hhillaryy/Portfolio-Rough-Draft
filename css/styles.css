@@ -8,7 +8,7 @@
 html {
   height: 100%;
   margin: 0;
-  background-color: #07BEB8;
+  background-color: #84DCC6;
   }
 
 h1 {
@@ -18,13 +18,23 @@ font-size: 72px;
 text-align: center;
 }
 
+h2 {
+font-family: 'Raleway', sans-serif;
+color: #FFA630;
+font-size: 38px;
+}
 
 h3 {
 font-family: 'Raleway', sans-serif;
-color: #FDFFFC;
+color: #FFA630;
 font-size: 28px;
 }
 
+p {
+font-family: 'Raleway', sans-serif;
+color: #3D4656;
+font-size: 18px;
+}
 
 img {
 width: 100%;
@@ -38,6 +48,7 @@ left: 200px;
 top: 370px;
 }
 
+
 #about {
 top: 365px;
 left: 538px;
@@ -50,4 +61,15 @@ top: 540px;
 left: 695px;
 position: relative;
 -webkit-transform: rotate(45deg);
+}
+
+a:hover {
+ color: #E8F1F2;
+}
+
+@media screen and (max width: 1400px) {
+  body {
+ padding: 0 10% 0 10%;
+}
+
 }
